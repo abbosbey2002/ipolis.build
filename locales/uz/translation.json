@@ -1,0 +1,92 @@
+{
+  "nav": {
+    "home": "BOSH SAHIFA",
+    "osago": "OSAGO",
+    "kasko": "KASKO",
+    "contact": "ALOQA",
+    "accident" : "BAXTSIZ HODISA",
+    "travel": "SAYOHAT"
+  },
+  "soon" : "Tez kunda",
+
+  "header": {
+    "Insurance":"Onlayn sug‘urta bozori",
+    "Paperwork": "Qog‘ozbozlik va bosh og‘riqsiz sug‘urta polislarini onlayn rasmiylashtiring",
+    "Trade": "Sug‘urta savdosi"
+  },
+
+  "cart":{
+    "Purple-title": "XIZMATLAR",
+    "Purple-subtitle": "Eng ko'p foydalanilgan xizmatlar",
+    "1-white__subtitle": "Avtomobil egalarining fuqarolik javobgarligini majburiy sug'urta qilish",
+    "1-white__title": "OSAGO",
+    "2-white__subtitle": "KASKO — avtotransport vositalarini ixtiyoriy sug‘urtalash.",
+    "2-white__title": "KASKO",
+    "3-white__subtitle": "Biz sizni sayohat bilan bog'liq kasalliklardan, hatto COVID-19 dan himoya qilamiz.",
+    "3-white__title": "sayohat",
+    "4-white__subtitle": "Sizni va yaqinlaringizni sog'lig'ingiz bilan bog'liq kutilmagan vaziyatlarda ishonchli sug'urta himoyasi bilan ta'minlaydi.",
+    "4-white__title": "BAXTSIZ HODISA",
+    "4-white__comme": "OPTIMILLASHTIRILGAN"
+  },
+
+  "footer":{
+    "ipolis-subtitle": "Qog‘ozbozliklarsiz va bosh og‘riqlarsiz polislarni onlayn rasmiylashtiring",
+    "aloqa": "Aloqa uchun",
+    "manzil": "MANZIL:",
+    "manzil__subtitle": "O‘zbekiston, Toshkent shahri, Muqimiy ko'chasi 15A",
+    "email": "EMAIL:",
+    "email__subtitle": "info@ipolis.uz",
+    "phone": "TELEFON",
+    "xabar-head":"Xabar yo'llang",
+    "xabar": "O'zingizni qiziqtirgan savol va takliflaringiz bo'lsa telefon raqamingizni qoldiring. Biz sizga tez orada aloqaga chiqamiz",
+    "xabar__placeholder": "Telefon raqamingiz",
+    "dora_copyright": "Barcha huquqlar himoyalanadi"
+
+  },
+
+  "ipolis": {
+    "ipolis__title": "Onlayn polis rasmiylashtirish",
+    "ipolis__button-davom": "Davom etirish",
+    "ipolis__button-qaytish": "Ortga qaytish",
+    "ipolis__button-transport": "Transport vositasining egasi ariza beruvchi hisoblanadi",
+    "ipolis__mashina": "Avtomobil malumotlari:",
+    "ipolis__mashina-raqami": "Mashina raqami:",
+    "ipolis__mashina-info": "Tex passport seriasi va raqami:",
+    "ipolis__egasi": "Avtomobil egasi ma'lumotlari:",
+    "ipolis__egasi-raqami": "Passport seriasi:",
+    "ipolis__egasi-info": "Passport raqami:"
+  },
+
+  "contact": {
+    "name": "Ismingiz",
+    "telefon":"Telefon raqamingiz",
+    "xabar": "Xabar",
+    "contact__button": "Yuborish",
+    "contact__title": "Aloqa uchun malumotlar",
+    "contact__subtitle": "Biz sizga har doim va har yerda yordam berish uchun harakatdamiz",
+    "contact__tel": "Telefon",
+    "contact__manzil": "Manzil",
+    "contact__manzil__subtitle": "O‘zbekiston, Toshkent shahri, Muqimiy ko'chasi 15A",
+    "contact__pochta": "Elektron pochta",
+    "contact__link": "Bizga obuna bo'ling"
+  },
+
+  "hamkor":{
+    "hamkor__title": "KAFIL SUGURTA",
+    "hamkor__content-title": "'KAFIL-SUG‘URTA' AJ sug‘urta",
+    "hamkor__content-subtitle": "'KAFIL-SUG‘URTA' AJ sug‘urta kompaniyasi 2004- yil 21- maydan boshlab O‘zbekiston Respublikasi Moliya vazirligining litsenziyasi asosida sug‘urtaning barcha 17 ta klassi bo‘yicha ixtiyoriy va majburiy shakllarda xizmat ko‘rsatadi.",
+    "hamkor__left-title": "Kompaniya nomi:",
+    "hamkor__left-subtitle": "«KAFIL SUGURTA» Sugʼurta kompaniyasi Masʼuliyati cheklangan jamiyat",
+    "hamkor__right-title": "Manzil",
+    "hamkor__right-subtitle": "100000, Toshkent sh., Mirzo-Ulug‘bek tumani, Mustaqillik shox ko‘chasi 59",
+    "hamkor__kompaniya": "Kompaniya nomi:",
+    "hamkor__kompaniya-title": "«KAFIL SUGURTA» Sugʼurta kompaniyasi Masʼuliyati cheklangan jamiyat",
+    "hamkor__manzil": "Manzil:",
+    "hamkor__manzil-title": "100000, Toshkent sh., Mirzo-Ulug‘bek tumani, Mustaqillik shox ko‘chasi 59",
+    "hamkor__ish": "Ish tartibi:",
+    "hamkor__ish-title": "Dushanba-Juma 09:00-18:00 (tushlik vaqti 13:00-14:00)",
+    "hamkor__aloqa": "Аloqa telefoni:",
+    "hamkor__sayt": "Korporativ sayti:"
+
+  }
+}

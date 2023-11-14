@@ -1,0 +1,92 @@
+{
+  "nav": {
+    "home": "HOME",
+    "osago": "OSAGO",
+    "accident" : "ACCIDENT",
+    "travel": "TRAVEL",
+    "kasko": "KASKO",
+    "contact": "CONTACT"
+  },
+  "soon" : "Soon",
+  
+  "header": {
+    "Insurance": "Online insurance market",
+    "Paperwork": "Apply online for insurance policies without paperwork and headaches",
+    "Trade": "Insurance trade"
+  },
+
+  "cart": {
+    "Purple-title": "SERVICE",
+    "Purple-subtitle": "Most popular services",
+    "1-white__subtitle": "Compulsory civil liability insurance for motor car owners.",
+    "1-white__title": "OSAGO",
+    "2-white__subtitle": "CASCO is a voluntary motor vehicle insurance.",
+    "2-white__title": "CASCO",
+    "3-white__subtitle":"We protect you from travel-related hassles, even from COVID-19.",
+    "3-white__title": "TRAVEL",
+    "4-white__subtitle": "Will provide you and your loved ones with reliable insurance protection in case of unforeseen health-related circumstances.",
+    "4-white__title": "UNFORTUNATE INCIDENT",
+    "4-white__comme": "OPTIMIZED"
+  },
+
+  "footer":{
+    "ipolis-subtitle": "Apply online for insurance policies without paperwork and headaches",
+    "aloqa": "For communication",
+    "manzil": "ADDRESS",
+    "manzil__subtitle": "Uzbekistan, Tashkent city, Muqimi street 15A",
+    "email": "EMAIL",
+    "email__subtitle": "info@ipolis.uz",
+    "phone": "TELEPHONE",
+    "xabar-head":"Send message",
+    "xabar": "Leave your phone number if you have any questions or suggestions. We will contact you soon",
+    "xabar__placeholder": "TELEPHONE NUMBER",
+    "dora_copyright":  "All rights reserved"
+  },
+
+  "ipolis": {
+    "ipolis__title": "Online policy registration",
+    "ipolis__button-davom": "Continue",
+    "ipolis__button-qaytish": "Go back",
+    "ipolis__button-transport": "The owner of the vehicle is the applicant",
+    "ipolis__mashina": "Vehicle information:",
+    "ipolis__mashina-raqami": "Car number:",
+    "ipolis__mashina-info": "Tex passport series and number:",
+    "ipolis__egasi": "Vehicle owner information:",
+    "ipolis__egasi-raqami": "Passport Series:",
+    "ipolis__egasi-info": "Passport number:"
+  },
+
+  "contact": {
+    "name": "Name",
+    "telefon":"Phone number",
+    "xabar": "Message",
+    "contact__button": "Send",
+    "contact__title": "Contact information",
+    "contact__subtitle": "We are here to help you anytime, anywhere",
+    "contact__tel": "Telephone",
+    "contact__manzil": "Address",
+    "contact__manzil__subtitle": "Uzbekistan, Tashkent city, Muqimi street 15A",
+    "contact__pochta": "Email",
+    "contact__link": "Subscribe to us"
+
+  },
+
+  "hamkor":{
+    "hamkor__title": "KAFIL SUGURTA",
+    "hamkor__content-title": "'KAFIL-SUGURTA' JSC insurance",
+    "hamkor__content-subtitle": "'KAFIL-SUG'URTA' JSC insurance company provides voluntary and mandatory services for all 17 classes of insurance on the basis of the license of the Ministry of Finance of the Republic of Uzbekistan from May 21, 2004.",
+    "hamkor__left-title": "Company Name:",
+    "hamkor__left-subtitle": "'KAFIL SUGURTA' Insurance Company Limited Liability Company",
+    "hamkor__right-title": "Address:",
+    "hamkor__right-subtitle": "100000, Tashkent Sh., Mirzo-Ulugbek District, 59 Mustaqillik Shok Street",
+    "hamkor__kompaniya": "Company Name",
+    "hamkor__kompaniya-title": "'KAFIL SUGURTA' Insurance Company Limited Liability Company",
+    "hamkor__manzil": "Address:",
+    "hamkor__manzil-title": "100000, Tashkent Sh., Mirzo-Ulugbek District, 59 Mustaqillik Shok Street",
+    "hamkor__ish": "Procedure:",
+    "hamkor__ish-title": "Monday-Friday 09:00-18:00 (lunch time 13:00-14:00)",
+    "hamkor__aloqa": "Contact phone:",
+    "hamkor__sayt": "Corporate website:"
+    
+  }
+}
