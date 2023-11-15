@@ -316,7 +316,7 @@ Version: 1.0
 
 .navbar .attr-right .attr-nav li .call h5 {
 	margin: 0;
-	font-weight: 700;
+	font-weight: 600;
 	font-size: 20px;
 	letter-spacing: 0.6px;
 }
@@ -595,7 +595,7 @@ nav.validnavs.navbar-full .navbar-collapse ul.nav {
 
 .validnavs a {
 	color: #232323;
-	font-weight: 700;
+	font-weight: 600;
 	text-transform: capitalize;
 	background: transparent;
 }
